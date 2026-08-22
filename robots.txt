@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dunnvilleplumbingpros.ca/sitemap-index.xml
