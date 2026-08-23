@@ -1,2 +1,25 @@
 # Dunnville Plumbing Pros
-HVAC services in Ontario.
+
+> Dunnville Plumbing Pros is a local HVAC company serving Dunnville, Haldimand, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (365) 661-7242  |  Email: contact@dunnvilleplumbingpros.ca  |  Website: https://dunnvilleplumbingpros.ca
+
+## Key pages
+
+- [Home](https://dunnvilleplumbingpros.ca/): Dunnville Plumbing Pros homepage with service overview and FAQ
+- [About](https://dunnvilleplumbingpros.ca/about/): About the company and service area
+- [Contact](https://dunnvilleplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://dunnvilleplumbingpros.ca/services/water-heaters/): Water Heaters in Dunnville, Ontario
+- [Drain Cleaning](https://dunnvilleplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Dunnville, Ontario
+- [Repiping](https://dunnvilleplumbingpros.ca/services/repiping/): Repiping in Dunnville, Ontario
+- [Fixtures & Toilets](https://dunnvilleplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Dunnville, Ontario
+- [Leak Detection & Repair](https://dunnvilleplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Dunnville, Ontario
+- [Sump Pumps & Backwater](https://dunnvilleplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Dunnville, Ontario
+- [Water Softeners & Filtration](https://dunnvilleplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Dunnville, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Dunnville are answered on the homepage.
